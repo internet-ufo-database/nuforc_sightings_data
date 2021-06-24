@@ -16,7 +16,7 @@ NEWSPIDER_MODULE = 'nuforc_reports.spiders'
 
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
-USER_AGENT = 'nuforc_reports (+https://www.github.com/timothyrenner)'
+USER_AGENT = 'nuforc_reports (Internet UFO Database)'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = True

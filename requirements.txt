@@ -6,3 +6,4 @@ toolz<1.0
 flake8
 black
 loguru
+pandas
